@@ -1,0 +1,10 @@
+mean,median,tokensScored,totalTokens,docsScored,docsUnscored,docsUnsupportedDates
+0.971,0.952,148,976,6,0,0
+
+docId,title,score,tokensScored,totalTokens,section1,section2,section3,section4,section5,section6,section7,section8,section9,section10,section11,section12,section13,section14,section15,section16,section17,section18,section19,section20
+loyolau~eb9fac4e-b3f3-4cb3-885a-679d02acb037~c24ca09b-d3a1-4a2b-ba0d-c9e1f15d816f,AndersonMargaret19160201.txt,0.561,57,399,1.0,0.4,0.333,1.0,0.75,1.5,1.6,-2.25,0.5,-2.0,2.0,1.333,0.0,0.333,2.333,1.0,1.5,2.5,-1.0,-0.5
+loyolau~eb9fac4e-b3f3-4cb3-885a-679d02acb037~05e13fdc-1ad1-458a-82aa-ae77c6f6ac36,AndersonMargaret19170727.txt,0.667,21,109,0.5,-0.5,1.0,2.0,1.667,NaN,-1.25,0.0,NaN,2.0,NaN,NaN,NaN,NaN,NaN,2.0,NaN,2.0,3.0,1.0
+loyolau~eb9fac4e-b3f3-4cb3-885a-679d02acb037~885f8afe-94c9-483d-86f8-3025791f753a,AndersonMargaret19171015.txt,0.75,8,78,2.0,2.0,2.0,NaN,-2.0,NaN,NaN,-2.0,3.0,NaN,NaN,NaN,NaN,-1.0,NaN,NaN,NaN,NaN,NaN,2.0
+loyolau~eb9fac4e-b3f3-4cb3-885a-679d02acb037~d781e171-b897-44d1-9b01-19c1082c9702,AndersonMargaret19141025.txt,1.154,13,58,0.0,NaN,3.0,NaN,NaN,NaN,NaN,NaN,2.5,2.0,-1.0,3.0,-1.0,NaN,NaN,-1.0,2.0,1.0,NaN,2.0
+loyolau~eb9fac4e-b3f3-4cb3-885a-679d02acb037~0cbdce41-9103-4f3c-9088-575bdfc95c11,AndersonMargaret19150319.txt,1.333,27,219,1.25,-0.5,NaN,3.0,NaN,-3.0,NaN,NaN,2.25,2.0,1.0,3.0,1.25,-1.0,NaN,1.0,2.0,2.0,2.0,2.0
+loyolau~eb9fac4e-b3f3-4cb3-885a-679d02acb037~1a1ee5b2-0f3b-443a-a67e-f6d684790592,AndersonMargaret19150628.txt,1.364,22,113,1.0,1.0,2.0,2.0,3.0,2.0,0.0,NaN,1.0,1.5,1.5,NaN,2.0,-3.0,NaN,NaN,NaN,3.0,NaN,1.5
